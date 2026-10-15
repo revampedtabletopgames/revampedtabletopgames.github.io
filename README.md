@@ -1,6 +1,6 @@
 # Revamped Tabletop Games website
 
-Website for Revamped Tabletop Games LLC. Plain HTML and CSS with no build step, hosted on Cloudflare Pages from this private repository. Every push to `main` redeploys the site.
+Website for Revamped Tabletop Games LLC. Plain HTML and CSS with no build step, hosted on GitHub Pages. Every push to `main` republishes the site.
 
 - `index.html` - home page and games
 - `support.html` - support page (App Store and Google Play support URL)
