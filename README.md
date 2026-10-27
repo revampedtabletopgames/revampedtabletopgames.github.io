@@ -5,5 +5,6 @@ Website for Revamped Tabletop Games LLC. Plain HTML and CSS with no build step, 
 - `index.html` - home page and games
 - `support.html` - support page (App Store and Google Play support URL)
 - `privacy.html` - privacy policy (App Store and Google Play privacy policy URL)
+- `terms.html` - terms of use (the games' Terms of use link, and the App Store listing's)
 - `delete-account.html` - account deletion instructions (Google Play account deletion URL)
 - `404.html` - page-not-found page
